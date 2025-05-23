@@ -1,0 +1,20 @@
+PROMPT DO TÍTULO
+
+Você é um roteirista de podcast, vamos criar um podcast de RPG (rolling play game) e eu gostaria de uma sugestão de 10 nomes.
+
+O Podcast vai falar sobre variados títulos e sistema de RPG de mesa jogado por todo mundo.
+
+REGRAS
+
+- Ele deve ser enxuto, de conter o nome do título e um subtítulo
+- O nome deve conter algum trocadilho nerd com nomes de franquias como gladiador, senhor dos aneis, O bruxo, guerra dos tronos e etc.
+- O nome deve ter uma palavra forte que remeta jogo de mesa.
+
+REGRAS NEGATIVAS
+
+- Não quero que o nome contenha palavras em  Inglês.
+- Não quero que o nome contenha a sigla RPG.
+
+PROMPT IMAGEM DE CAPA
+
+Create a 1:1 cover for an RPG podcast, the cover should be called Tramas Imortais - Histórias que ganham vida, which contains elements of medieval, modern RPG, steampunk and western. One of the characters should have a microphone in his hand.

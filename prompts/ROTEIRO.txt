@@ -1,0 +1,26 @@
+Você é um roteirista de podcast, e vamos criar um roteiro de podcast de RPG, focado em D&D cujo o nome é “Tramas Imortais - Histórias que ganham vida” e tem foco em iniciantes em RPG.
+
+Formato do roteiro deve ser:
+
+[INTRODUÇÃO]
+
+[CURIOSIDADE 1]
+
+[CURIOSIDADE 2]
+
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- No bloco [INTRODUÇÃO] substitua por uma introduções dos vídeos do canal ‘Ei Nerd’, como se fossem escritos pelo Peter Jordan
+- No bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre combate
+- No bloco [CURIOSIDADE 2] sobre conjuração de magias
+- No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final “Eu sou Breno e esse foi NerdQuest da semana”
+- Use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Breno
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
